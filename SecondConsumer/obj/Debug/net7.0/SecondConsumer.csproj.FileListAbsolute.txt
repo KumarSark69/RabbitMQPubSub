@@ -1,0 +1,17 @@
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/SecondConsumer
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/SecondConsumer.deps.json
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/SecondConsumer.runtimeconfig.json
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/SecondConsumer.dll
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/SecondConsumer.pdb
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.csproj.AssemblyReference.cache
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.AssemblyInfoInputs.cache
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.AssemblyInfo.cs
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.csproj.CoreCompileInputs.cache
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.csproj.CopyComplete
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.dll
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/refint/SecondConsumer.dll
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.pdb
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/SecondConsumer.genruntimeconfig.cache
+/Users/anilkumar/AnilProject/RabbitMQPubSub/SecondConsumer/obj/Debug/net7.0/ref/SecondConsumer.dll
